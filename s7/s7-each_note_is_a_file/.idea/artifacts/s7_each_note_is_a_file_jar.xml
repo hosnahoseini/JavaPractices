@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="s7-each_note_is_a_file:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="s7-each_note_is_a_file.jar">
+      <element id="module-output" name="s7-each_note_is_a_file" />
+    </root>
+  </artifact>
+</component>
